@@ -1,0 +1,24 @@
+# Virtual environment (the Python version of node_modules)
+.venv/
+venv/
+
+# Python cache files, auto-generated when code runs
+__pycache__/
+*.pyc
+
+# Jupyter notebook autosave folders
+.ipynb_checkpoints/
+
+# Secrets and API keys (the Python version of .env in Node)
+.env
+*.env
+
+# Raw downloaded data (large, and anyone can re-download it)
+data/raw/
+
+# VS Code personal settings
+.vscode/
+
+# Windows junk
+Thumbs.db
+Desktop.ini
